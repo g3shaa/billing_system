@@ -16,7 +16,8 @@
 </ul>
 
 <h2>Screenshots</h2>
-![image](https://github.com/g3shaa/billing_system/assets/64840882/9ca280e7-99ad-4cd0-9439-2e3bccaac7e5)
+<img src = "https://media.discordapp.net/attachments/1149453141415313428/1165221165955026985/image.png?ex=65460fc6&is=65339ac6&hm=2be5363b97c8a464dd4faae762617cecd0db224325f0529f6ac4731dbd3062ad&="/>
+
 
 
 <h2 id="license">License</h2>
